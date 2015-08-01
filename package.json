@@ -1,0 +1,17 @@
+{
+  "name": "liqourStore",
+  "version": "1.0.0",
+  "description": "a liqour store with express and mongoose",
+  "main": "app.js",
+  "dependencies": { 
+		"express": "~4.13.2",
+        "mongoose": "~4.1.0",
+        "body-parser": "~1.13.3",
+        "jade": "1.11.0"
+		},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ttante",
+  "license": "ISC"
+}
